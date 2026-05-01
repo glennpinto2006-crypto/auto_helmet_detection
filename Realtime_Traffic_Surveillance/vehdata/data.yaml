@@ -1,0 +1,11 @@
+path:  # change this to your dataset path
+
+train: 
+val: 
+# test: D:\yoloproject\testproj\vehdata\images\test   # optional (remove if not using)
+
+names:
+  0: helmet
+  1: without_helmet
+  2: rider
+  3: number_plate
